@@ -1,4 +1,4 @@
-# Generative AI Internship Task – Prodigy Infotech
+# Image Generation with Pre-trained Models
 
 ## Task
 Generate images from text prompts using pre-trained models like Stable Diffusion.
